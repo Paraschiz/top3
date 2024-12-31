@@ -1,6 +1,6 @@
 # Top3
 60% inpired by perryworks Khdd
-
+-----------------------------------------------------------------------------
 Specification
 Typing Angle: 4.5°
 
@@ -11,9 +11,8 @@ Front Height: 17mm
 PCB: h60 pcb (check jst position)
 
 Daughterboard: Unified Daughterboard C3
-
+-----------------------------------------------------------------------------
 Replacement Parts
-
 Screws
 Case: M2.5 x 0.45 mm Thread, 8 mm Length, Socket Head
 
