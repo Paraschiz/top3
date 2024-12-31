@@ -1,7 +1,10 @@
 # Top3
-60% inpired by perryworks Khdd
------------------------------------------------------------------------------
-Specification
+
+
+# 60% inpired by perryworks Khdd
+
+# Specification
+
 Typing Angle: 4.5°
 
 Mounting Style: Top Mount
@@ -12,8 +15,7 @@ PCB: h60 pcb (check jst position)
 
 Daughterboard: Unified DaughterBoard C3
 
------------------------------------------------------------------------------
-Replacement Parts
+# Replacement Parts
 Screws
 Case: M2.5 x 0.45 mm Thread, 8 mm Length, Socket Head
 
