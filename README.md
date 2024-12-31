@@ -10,7 +10,8 @@ Front Height: 17mm
 
 PCB: h60 pcb (check jst position)
 
-Daughterboard: Unified Daughterboard C3
+Daughterboard: Unified DaughterBoard C3
+
 -----------------------------------------------------------------------------
 Replacement Parts
 Screws
