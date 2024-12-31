@@ -25,4 +25,4 @@ Photocard Cover: M2 x 0.4 mm Thread, 5 mm Length, Flat Head
 
 Plate: M2.5 x 0.45 mm Thread, 6 mm Length, Button Head
 
-*I am not responsible if the files do not work.*
+# *I am not responsible if the files do not work.*
