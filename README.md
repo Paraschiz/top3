@@ -1,7 +1,7 @@
 # Top3
 
 
-# 60% inpired by perryworks Khdd
+# 60% inpired by perryhuynh's Khdd
 
 # Specification
 
