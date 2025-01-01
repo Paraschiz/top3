@@ -1,7 +1,7 @@
 # Top3
 
 
-# 60% inpired by perryhuynh's Khdd
+# 60% inspired by perryhuynh's Khdd
 
 # Specification
 
